@@ -1,8 +1,7 @@
 # document-scanner
 
 * Document Scanner | Applied Linear Algebra
-  * Developed a document scanner that can generate a warped image from a raw taken image from an angle
-  * My model can also apply various filters like gray scale to the warped version and also scale/crop it
+  * Developed a document scanner that can generate a warped image from a raw taken image from an angle. My model can also apply various filters like gray scale to the warped version and also scale/crop it
   * Utilized Python, NumPy for matrix calculations, and the given utils for various matrix/image functionalities
 
 ![image](https://github.com/amirbelbasi/document-scanner/assets/58425120/cc00168d-664d-4351-a865-7b7cecb53182)
